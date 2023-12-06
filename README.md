@@ -26,7 +26,7 @@ The system automatically fetches the user's location, ensuring that AQI predicti
 4. Libraries Used: NumPy, Flask, Pandas, Scikit-learn
 5. OpenWeatherMap API
 
-# Steps to run
+# Steps to run ⚙️
 1. Open AndroidStudio, in the *aqi_server* folder
 2. Create a virtual environment
    ```
